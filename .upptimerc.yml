@@ -14,7 +14,7 @@ status-website:
   cname: status.theoctaneserver.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://support.theoctaneagency.com/octane.png
   name: The Octane Server Status
   introTitle: "The Octane Server Status"
   introMessage: Please email or call us if your Octane managed website is down. See our [Support](https://support.theoctaneagency.com) website for details.
