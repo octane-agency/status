@@ -2,7 +2,7 @@
   {
     "name": "The Octane Server",
     "url": "https://www.theoctaneserver.com",
-    "icon": "https://favicons.githubusercontent.com/www.theoctaneserver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.theoctaneserver.com.ico",
     "slug": "the-octane-server",
     "status": "up",
     "uptime": "99.98%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 361,
-    "timeWeek": 260,
-    "timeMonth": 290,
+    "timeDay": 209,
+    "timeWeek": 256,
+    "timeMonth": 284,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2022-08-19": 29,
@@ -24,7 +24,7 @@
   {
     "name": "Octane Pages",
     "url": "https://octanepages.com",
-    "icon": "https://favicons.githubusercontent.com/octanepages.com",
+    "icon": "https://icons.duckduckgo.com/ip3/octanepages.com.ico",
     "slug": "octane-pages",
     "status": "up",
     "uptime": "99.86%",
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.77%",
     "time": 669,
-    "timeDay": 652,
-    "timeWeek": 517,
-    "timeMonth": 565,
+    "timeDay": 432,
+    "timeWeek": 503,
+    "timeMonth": 559,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2022-09-22": 36,
