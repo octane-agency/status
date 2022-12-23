@@ -1,7 +1,7 @@
 url: https://octanepages.com
-status: up
-code: 200
-responseTime: 21806
-lastUpdated: 2022-12-23T08:53:59.308Z
+status: down
+code: 500
+responseTime: 4294
+lastUpdated: 2022-12-23T17:54:03.405Z
 startTime: Wed Jan 20 2021 21:50:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
