@@ -13,13 +13,13 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://support.theoctaneagency.com/octane.png
-  name: The Octane Server Status
-  introTitle: "The Octane Server Status"
+  name: Octane Server Status
+  introTitle: "Octane Server Status"
   introMessage: Please email or call us if your Octane managed website is down. See our [Support](https://support.theoctaneagency.com) website for details.
   navbar:
     - title: Status
       href: /
-    - title: The Octane Agency
+    - title: Octane Marketing
       href: https://www.theoctaneagency.com
 
 # Upptime also supports notifications, assigning issues, and more
