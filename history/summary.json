@@ -1,22 +1,22 @@
 [
   {
     "name": "The Octane Server",
-    "url": "https://www.theoctaneserver.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.theoctaneserver.com.ico",
+    "url": "https://host.theoctaneserver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/host.theoctaneserver.com.ico",
     "slug": "the-octane-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "80.59%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.94%",
     "time": 580,
-    "timeDay": 132,
-    "timeWeek": 150,
-    "timeMonth": 1302,
-    "timeYear": 602,
+    "timeDay": 147,
+    "timeWeek": 152,
+    "timeMonth": 1271,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-04-17": 0,
+      "2024-04-17": 279,
       "2024-03-27": 24
     }
   }
