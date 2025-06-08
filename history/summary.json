@@ -4,18 +4,19 @@
     "url": "https://host.theoctaneserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/host.theoctaneserver.com.ico",
     "slug": "the-octane-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 392,
+    "time": 394,
     "timeDay": 519,
     "timeWeek": 360,
     "timeMonth": 318,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2025-06-08": 0,
       "2025-06-03": 18,
       "2025-06-01": 28
     }
