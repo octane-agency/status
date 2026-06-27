@@ -6,15 +6,17 @@
     "slug": "the-octane-server",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 340,
     "timeDay": 131,
     "timeWeek": 234,
     "timeMonth": 365,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-27": 56
+    }
   }
 ]
